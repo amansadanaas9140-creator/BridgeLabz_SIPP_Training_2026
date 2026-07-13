@@ -1,5 +1,3 @@
-package BridgeLabz_SIPP_Training_2026.core_java_practice.gcr_codebase.programming_elements.level_01;
-
 public class CalculateProfitAndLoss {
     public static void main(String[] args) {
         int CostPrice = 129;
